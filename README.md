@@ -19,6 +19,7 @@ Application Android qui calcule l'indice de masse corporelle (IMC) à partir du 
 
 ## Captures d'écran
 ![Calcul valide](capture.png)
+![Erreur de saisie](capture_erreur.png)
 
 
 ## Fichiers principaux
